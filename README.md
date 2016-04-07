@@ -1,5 +1,8 @@
 # Blackberry-Csv-ChatLog-Reader
-Simple GUI application used to visualize Blackberry csv chat files
+Simple GUI application used to visualize blackberry csv chat files
+
+
+![alt text] (https://github.com/jamrock876/Blackberry-Csv-ChatLog-Reader/blob/master/res/Image1.png "chat screen")
 
 # Known bugs
 * None I am aware of
