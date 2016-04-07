@@ -84,7 +84,8 @@ class chatLog(tk.Frame):
             line = item.split(",")
             if len(line) > 3:
                 sender = line[1]
-                message = line[3]
+                message = ", ".join(line[3:])
+                print message
                 lst.append([sender[1:-1], message])
         return lst
 
